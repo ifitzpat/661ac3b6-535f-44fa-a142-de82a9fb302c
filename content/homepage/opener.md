@@ -18,7 +18,7 @@ Kinderen krijgen is een grote verandering. Het combineren van werk en privé zie
 - weinig regie ervaren in je leven en/of werk
 
 Herken je jezelf in één of meerdere punten en wil je ermee aan de slag? Houd je van buiten zijn in de natuur en lijkt het je prettig om al wandelend gecoacht te worden?
-Lees dan meer over wandelcoaching onder aanbod.
+Lees dan onder 'Aanbod' meer over wandelcoaching.
 
 > Het buiten zijn, mijn verhaal kwijt kunnen, een stukje bewustwording en jouw
 > feedback hielpen me enorm. Het is best een stap en best spannend om dit aan te

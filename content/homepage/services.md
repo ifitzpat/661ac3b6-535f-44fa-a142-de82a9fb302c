@@ -17,6 +17,8 @@ We onderzoeken wat er op dit moment speelt en wat je belangrijkste wensen zijn v
 
 Als coach ben ik zowel analytisch als empathisch, zorg ik dat we koers houden en stem ik goed af. Zo zoeken we samen naar wat werkt voor jou.
 
+![Mist](images/mist.jpg)
+
 Ik bied het volgende traject aan:
 
 #### Aandacht voor jou
@@ -35,10 +37,6 @@ Het resultaat is dat je beter voor jezelf gaat zorgen op een manier die voor jou
 
 
 
-Kosten per traject:
-490 euro (momenteel 392 euro starttarief)
-vrijgesteld van BTW
+*Kosten per traject:* 490 euro (momenteel 392 euro starttarief)
 
-Vervolg-/ opfriswandeling:
-98 euro (momenteel 78,40 euro starttarief)
-vrijgesteld van BTW
+*Vervolg-/ opfriswandeling:* 98 euro (momenteel 78,40 euro starttarief)
