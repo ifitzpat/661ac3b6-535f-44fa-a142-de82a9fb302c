@@ -10,4 +10,9 @@ header_menu: true
 
 Ik ben bereikbaar via e-mail of WhatsApp. Als je me een bericht stuurt kunnen we een telefonisch contact plannen en/of een afspraak maken voor een vrijblijvende kennismakingswandeling.
 
+
+[Algemene Voorwaarden](documents/algemene-voorwaarden.pdf)
+
+[Privacyverklaring](documents/privacy-verklaring.pdf)
+
 [![https://wandelcoach.nl/opleidingen/wandelcoach-opleiding/](images/wandelcoach-opleiding.webp)](https://wandelcoach.nl/opleidingen/wandelcoach-opleiding/)
