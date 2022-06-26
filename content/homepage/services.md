@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-In de periode van (jong) ouderschap, die ook wel ‘het spitsuur van je leven’ wordt genoemd, is het belangrijk om goed voor jezelf te blijven zorgen. Maar dat is niet altijd gemakkelijk. Strategieën die je eerder hanteerde bij het omgaan met drukte en ingrijpende gebeurtenissen zijn niet altijd meer passend. Je merkt dat het nodig is om dingen anders te doen, maar door de stress en vermoeidheid is het moeilijk om te bepalen waar te beginnen en om bewuste keuzes te maken.
+In de periode van (jong) ouderschap, die ook wel ‘het spitsuur van je leven’ wordt genoemd, is het belangrijk om goed voor jezelf te blijven zorgen. Maar dat is niet altijd gemakkelijk. Strategieën die je eerder hanteerde bij het omgaan met drukte en ingrijpende gebeurtenissen zijn niet altijd meer passend. De relaties met de mensen om je heen staan soms onder druk. Dit kan bijvoorbeeld leiden tot strubbelingen in de relatie met je partner. Je merkt dat het nodig is om dingen anders te doen, maar door de stress en vermoeidheid is het moeilijk om te bepalen waar te beginnen en om bewuste keuzes te maken.
 
 ---
 

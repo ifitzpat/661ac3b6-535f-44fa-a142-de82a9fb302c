@@ -16,6 +16,7 @@ Kinderen krijgen is een grote verandering. Het combineren van werk en privé zie
 - veel zelfkritiek
 - teveel ballen in de lucht moeten houden
 - weinig regie ervaren in je leven en/of werk
+- geen ruimte voor jezelf voelen
 
 Herken je jezelf in één of meerdere punten en wil je ermee aan de slag? Houd je van buiten zijn in de natuur en lijkt het je prettig om al wandelend gecoacht te worden?
 Lees dan onder 'Aanbod' meer over wandelcoaching.
