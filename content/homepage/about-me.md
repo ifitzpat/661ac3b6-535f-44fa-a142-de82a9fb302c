@@ -6,7 +6,7 @@ header_menu: true
 
 ![Hester](images/hester.jpg)
 
-##### Psycholoog/wandelcoach
+##### Psycholoog | wandelcoach
 
 Ik ben Hester van Vliet. Met mijn man en twee dochters (geboren in 2013 en 2017) woon ik in Lent. Na mijn opleiding tot ontwikkelingspsycholoog heb ik bijna tien jaar binnen de kinder- en jeugd GGZ gewerkt. Daarna volgde een fase waarin ik aandacht heb besteed aan mijn gezin, aan loopbaan-oriëntatie en tijdelijke banen. Ik heb aan den lijve ondervonden hoe ingewikkeld het soms kan zijn om (loopbaan)keuzes te maken die in deze fase passen bij jezelf en binnen de rest van je leven.
 
