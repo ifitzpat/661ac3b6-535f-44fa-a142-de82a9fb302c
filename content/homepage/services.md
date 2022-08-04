@@ -37,6 +37,6 @@ Het resultaat is dat je beter voor jezelf gaat zorgen op een manier die voor jou
 
 
 
-*Kosten per traject:* 490 euro (momenteel 392 euro starttarief)
+*Kosten per traject (particulier):* 490 euro (momenteel 392 euro starttarief)
 
-*Vervolg-/ opfriswandeling:* 98 euro (momenteel 78,40 euro starttarief)
+*Vervolg-/ opfriswandeling (particulier):* 98 euro (momenteel 78,40 euro starttarief)
