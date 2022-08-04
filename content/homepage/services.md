@@ -17,7 +17,7 @@ We onderzoeken wat er op dit moment speelt en wat je belangrijkste wensen zijn v
 
 Als coach ben ik zowel analytisch als empathisch, zorg ik dat we koers houden en stem ik goed af. Zo zoeken we samen naar wat werkt voor jou.
 
-![Mist](images/mist.jpg)
+![Mist](images/jisca-lucia.jpg)
 
 Ik bied het volgende traject aan:
 
