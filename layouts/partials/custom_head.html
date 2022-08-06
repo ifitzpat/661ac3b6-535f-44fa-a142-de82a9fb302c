@@ -15,8 +15,26 @@
   }
 
      #site-head {
-         background-size: cover;
-	 background-position: 0% 35%;
+         background-size: contain;
+	 /* background-position: 0% 35%; */
+	 clear: left;
+	 background: #fff;
+     }
+
+     #site-head::before {
+         background-image: url('images/Meer-Lucht_liggend-verloop_RGB.png');
+	 background-repeat: no-repeat;
+	 background-size: auto 75%;
+	 background-position: 5% 50%;
+	 aspect-ratio: 1;
+	 background-color: #fff;
+	 display: inline-block;
+	 position: absolute;
+	 left: 0px;
+	 top: 0px;
+	 content: "";
+	 width: 100vmax;
+	 height: 10vmax;
      }
 
      a:hover {
@@ -29,13 +47,32 @@
          background-color: #2c4640;
 	 font-family: Yantramanav;
      }
+
      blockquote p {
 	 margin-left: 4em;
 	 margin-right: 4em;
 	 margin-top: 0.5em;
 	 margin-bottom: 0.5em;
 	 font-style: italic;
+	 text-align: center;
      }
+
+     @media screen and (min-width: 1100px) {
+	 blockquote {
+	     position: absolute;
+	     float: right;
+	     left: 105%;
+	     top: 35%;
+	     max-width: 130%;
+	     margin: 0;
+	 }
+	 blockquote p {
+	     margin: 0!important;
+	     width: 200px;
+	     position: absolute;
+	 }
+     }
+
      a.btn:hover {
           background-color: #8fd4c1;
      }
@@ -71,6 +108,28 @@
      h3, h4, h5 {
 	 font-family: "Yantramanav";
 	 font-weight: bold;
+     }
+     /* img[alt="Mist"] { */
+     /* 	 position: relative; */
+     /* 	 left: -300px; */
+     /* 	 width: 200vmax; */
+     /* } */
+
+     img[alt="Hester"] {
+	 object-fit: cover;
+	 border-radius: 50%;
+	 width: 200px;
+	 height: 200px;
+	 aspect-ratio: 1;
+	 object-position: -10% 0;
+     }
+
+     @media screen and (min-width: 1100px) {
+	 img[alt="Hester"] {
+	     float: left;
+             position: absolute;
+	     left: -35%;
+	 }
      }
 
      /* Footer */
