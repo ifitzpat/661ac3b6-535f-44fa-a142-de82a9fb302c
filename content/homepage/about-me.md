@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Hester](images/hester.jpg)
+![Hester](images/hester2.jpg)
 
 ##### Psycholoog | wandelcoach
 
