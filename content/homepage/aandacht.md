@@ -4,7 +4,7 @@ weight: 4
 header_menu: false
 ---
 
-![Mist](images/jisca-lucia.jpg)
+<!-- ![Mist](images/jisca-lucia.jpg) -->
 
 Ik bied het volgende traject aan:
 

@@ -73,6 +73,24 @@
 	 }
      }
 
+     article[id=""] section blockquote {
+	 float: none;
+	 position: relative;
+	 left: 0%;
+	 top: 50%;
+	 max-width: 100%;
+     }
+
+
+     article[id=""] section blockquote p {
+	 margin: 0;
+	 width: 80%;
+	 left: 10%;
+	 max-width: 100%;
+	 position: relative;
+     }
+
+
      a.btn:hover {
           background-color: #8fd4c1;
      }
@@ -98,8 +116,8 @@
          color: #2c4640;
 	 font-family: "Yantramanav";
 	 font-weight: light;
+	 overflow-x: hidden;
      }
-
      h1, h2 {
 	 font-family: "ActayBold";
      }
@@ -109,11 +127,65 @@
 	 font-family: "Yantramanav";
 	 font-weight: bold;
      }
+
      /* img[alt="Mist"] { */
-     /* 	 position: relative; */
-     /* 	 left: -300px; */
-     /* 	 width: 200vmax; */
+     /* 	 position: absolute;*/
+     /* 	 left: 0px; */
+     /* 	 margin: 0; */
+     /* 	 width: 100vmax;*/
+     /*  } */
+
+     @media screen and (max-width: 1130px) {
+
+	 #aandacht-voor-jou::before {
+
+         background-image: url('images/jisca-lucia.jpg');
+
+	 background-repeat: no-repeat;
+	 background-size: 100% auto;
+	 /* background-size: auto 75%; */
+	 /* aspect-ratio: 1; */
+	 display: block;
+	 position: absolute;
+	 left: -7vmax;
+	 top: -20px;
+	 content: "";
+	 width: 107vmax;
+	 height: 30vmax;
+       }
+     }
+
+ @media screen and (min-width: 1130px) {
+
+	 #aandacht-voor-jou::before {
+
+         background-image: url('images/jisca-lucia.jpg');
+
+	 background-repeat: no-repeat;
+	 background-size: 100% auto;
+	 /* background-size: auto 75%; */
+	 /* aspect-ratio: 1; */
+	 display: block;
+	 position: absolute;
+	 left: -50vmax;
+	 top: -0px;
+	 content: "";
+	 width: 150vmax;
+	 height: 30vmax;
+       }
+     }
+
+
+
+
+ #aandacht-voor-jou .post-header {
+	 padding-top: 30vmax;
+     }
+
+     /* #aandacht-voor-jou .post-content { */
+     /* 	 padding-top: 35vmax; */
      /* } */
+
 
      img[alt="Hester"] {
 	 object-fit: cover;
