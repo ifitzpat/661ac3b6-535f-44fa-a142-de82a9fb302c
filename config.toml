@@ -14,7 +14,7 @@ title = "Meer lucht - Wandelcoaching voor (jonge) ouders"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Hester van Vliet, 2022"
+    copyright = "© Hester van Vliet, 2022 | Fotografie: Daan Rink & Jisca Lucia"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Meer lucht - Wandelcoaching voor (jonge) ouders"
