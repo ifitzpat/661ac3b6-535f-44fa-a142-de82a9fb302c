@@ -30,4 +30,4 @@ Dan kun je ook kiezen voor een eenmalige sessie rondom tempo, stress & zelfzorg 
 
 *Najaarstarief*: 80 euro (vrijgesteld van BTW)
 
-Lees er hier meer over: Link naar PDF
+Lees er hier meer over: [Link naar pdf](documents/Najaarsaanbieding-voor-nieuwsgierige-mensen.pdf)
