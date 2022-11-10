@@ -17,11 +17,11 @@ Ik bied het volgende traject aan:
 Het in beweging zijn maakt dat het voor veel mensen makkelijker is om in gesprek te zijn en om niet alleen ‘vanuit hun hoofd’  te praten, maar ook aandacht te hebben voor het lichaam en gevoel. De natuur werkt ontspannend en ondersteunend bij oefeningen die gericht zijn op aandacht voor het hier en nu. Daarnaast kunnen beelden/ metaforen uit de natuur soms helpend zijn.
 Het resultaat is dat je beter voor jezelf gaat zorgen op een manier die voor jou werkt en dat je bewustere keuzes kan maken. Dit komt op de langere termijn vaak niet alleen jezelf, maar ook je omgeving/gezin ten goede.
 
-#### Kosten
+#### Tarieven
 
 *Kosten per traject (particulier):* 490 euro (vrijgesteld van BTW)
 
-*Vervolg-/ opfriswandeling (particulier):* 98 euro (vrijgesteld van BTW)
+*Vervolg-/ opfriswandeling van 1.5 uur (particulier):* 98 euro (vrijgesteld van BTW)
 
 #### Eenmalige 'meer lucht-sessie'
 
