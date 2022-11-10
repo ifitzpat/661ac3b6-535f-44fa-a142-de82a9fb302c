@@ -17,8 +17,17 @@ Ik bied het volgende traject aan:
 Het in beweging zijn maakt dat het voor veel mensen makkelijker is om in gesprek te zijn en om niet alleen ‘vanuit hun hoofd’  te praten, maar ook aandacht te hebben voor het lichaam en gevoel. De natuur werkt ontspannend en ondersteunend bij oefeningen die gericht zijn op aandacht voor het hier en nu. Daarnaast kunnen beelden/ metaforen uit de natuur soms helpend zijn.
 Het resultaat is dat je beter voor jezelf gaat zorgen op een manier die voor jou werkt en dat je bewustere keuzes kan maken. Dit komt op de langere termijn vaak niet alleen jezelf, maar ook je omgeving/gezin ten goede.
 
+#### Kosten
 
+*Kosten per traject (particulier):* 490 euro (vrijgesteld van BTW)
 
-*Kosten per traject (particulier):* 490 euro (momenteel 392 euro starttarief)
+*Vervolg-/ opfriswandeling (particulier):* 98 euro (vrijgesteld van BTW)
 
-*Vervolg-/ opfriswandeling (particulier):* 98 euro (momenteel 78,40 euro starttarief)
+#### Eenmalige 'meer lucht-sessie'
+
+Wil je laagdrempelig ervaren wat wandelcoaching voor je kan doen?
+Dan kun je ook kiezen voor een eenmalige sessie rondom tempo, stress & zelfzorg of zelfcompassie.
+
+*Najaarstarief*: 80 euro (vrijgesteld van BTW)
+
+Lees er hier meer over: Link naar PDF
